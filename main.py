@@ -87,7 +87,7 @@ if __name__=="__main__":
             # print(word)
 
             if word.lower()=="jarvis":
-                speak("Yeah Sir! Activating Javis...")
+                speak("Yes Sir! Activating Javis...")
                 # Listen for command
                 with sr.Microphone() as source:
                     print("Activating Javis...")
