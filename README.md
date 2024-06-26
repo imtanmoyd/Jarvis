@@ -20,7 +20,7 @@ Jarvis is a powerful and intelligent personal virtual assistant built with Pytho
 
 2. Navigate to the project directory:
     ```sh
-    cd jarvis
+    cd Jarvis
     ```
 3. Install the required dependencies:
     ```sh
